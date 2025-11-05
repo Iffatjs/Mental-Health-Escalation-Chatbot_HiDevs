@@ -1,1 +1,9 @@
-# Mental-Health-Escalation-Chatbot_HiDevs
+# Mental Health Escalation Chatbot
+
+This project is automatically generated.
+
+## Installation
+
+```sh
+pip install -r requirements.txt
+```
